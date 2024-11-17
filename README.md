@@ -24,8 +24,8 @@ Step 7: Save and run the application.
 /*
 ```
 Program to print the list of item.
-Developed by:ArunKumar.T
-egisteration Number :212222040017
+Developed by: SURENDHAR K
+egisteration Number :212222040166
 ```
 */
 ## activity_main.xml:
